@@ -15,6 +15,9 @@ Se realizan pruebas con 4 perfiles o usuarios diferentes, partiendo de laa base 
 Para correr el proyecto se necesita Java JDK 1.8 y Gradle preferiblemente con la versión 4.7.
 
 ## Para correr el proyecto
+se corre bajo configuración gradle
 
-clean test aggregate es el comando que correrá los tests y generará el reporte en la carpeta /target/site/serenity/
+
+RUN: clean test aggregate
+ es el comando que correrá los tests y generará el reporte en la carpeta /target/site/serenity/
  
